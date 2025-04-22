@@ -1,0 +1,10 @@
+name: demo
+title:
+username: xucam
+account: xucam
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13873136
+bundleId: 9731107
+url: https://xucam.shinyapps.io/demo/
+version: 1
